@@ -1,0 +1,2 @@
+setx GH_TOKEN  "e2069556d1606b98bc41e9dc3fc54cecda9854aa"
+echo %GH_TOKEN%
